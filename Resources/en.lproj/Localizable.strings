@@ -1,0 +1,184 @@
+/* 
+  Localizable.strings
+  Advocate
+
+  English localization
+*/
+
+// MARK: - Navigation
+"clients" = "Clients";
+"cases" = "Cases";
+"documents" = "Documents";
+"time" = "Time";
+"settings" = "Settings";
+"statistics" = "Statistics";
+"help" = "Help";
+
+// MARK: - Actions
+"add" = "Add";
+"edit" = "Edit";
+"delete" = "Delete";
+"save" = "Save";
+"cancel" = "Cancel";
+"done" = "Done";
+"search" = "Search";
+"close" = "Close";
+"back" = "Back";
+
+// MARK: - Client
+"client" = "Client";
+"clients" = "Clients";
+"new_client" = "New Client";
+"edit_client" = "Edit Client";
+"full_name" = "Full Name";
+"last_name" = "Last Name";
+"first_name" = "First Name";
+"middle_name" = "Middle Name";
+"phone" = "Phone";
+"email" = "Email";
+"notes" = "Notes";
+"contacts" = "Contacts";
+
+// MARK: - Case
+"case" = "Case";
+"cases" = "Cases";
+"new_case" = "New Case";
+"edit_case" = "Edit Case";
+"case_number" = "Case Number";
+"case_title" = "Title";
+"description" = "Description";
+"status" = "Status";
+"payment_method" = "Payment Method";
+"hourly_rate" = "Hourly Rate";
+"monthly_amount" = "Monthly Amount";
+"active" = "Active";
+"archived" = "Archived";
+"closed" = "Closed";
+"hourly" = "Hourly";
+"fixed" = "Fixed";
+"monthly" = "Monthly";
+
+// MARK: - Event
+"event" = "Event";
+"events" = "Events";
+"new_event" = "New Event";
+"event_title" = "Event Title";
+"event_type" = "Event Type";
+"date" = "Date";
+"time" = "Time";
+"duration" = "Duration (hours)";
+"meeting" = "Meeting";
+"court" = "Court";
+"consultation" = "Consultation";
+"document_review" = "Document Review";
+"call" = "Call";
+"other" = "Other";
+"upcoming_events" = "Upcoming Events";
+"no_upcoming_events" = "No upcoming events";
+
+// MARK: - Payment
+"payment" = "Payment";
+"payments" = "Payments";
+"new_payment" = "New Payment";
+"amount" = "Amount";
+"payment_date" = "Payment Date";
+"total_earnings" = "Total Earnings";
+
+// MARK: - Document
+"document" = "Document";
+"documents" = "Documents";
+"new_document" = "New Document";
+"document_title" = "Document Title";
+"document_type" = "Document Type";
+"contract" = "Contract";
+"court_order" = "Court Order";
+"statement" = "Statement";
+"evidence" = "Evidence";
+"correspondence" = "Correspondence";
+"power_of_attorney" = "Power of Attorney";
+"scan_document" = "Scan Document";
+"import_photo" = "Import Photo";
+"favorite" = "Favorite";
+
+// MARK: - Dashboard
+"dashboard" = "Dashboard";
+"active_cases" = "Active Cases";
+"earned" = "Earned";
+"hours_this_month" = "Hours This Month";
+"recent_cases" = "Recent Cases";
+"all" = "All";
+
+// MARK: - Calendar
+"calendar" = "Calendar";
+"select_date" = "Select Date";
+"no_events" = "No events";
+"time_tracking" = "Time Tracking";
+"today" = "Today";
+"week" = "Week";
+"month" = "Month";
+"year" = "Year";
+"entries" = "Entries";
+"no_entries" = "No entries for period";
+
+// MARK: - Settings
+"profile" = "Profile";
+"appearance" = "Appearance";
+"dark_mode" = "Dark Mode";
+"notifications" = "Notifications";
+"enable_notifications" = "Enable Notifications";
+"notification_settings" = "Notification Settings";
+"default_payment" = "Default Payment";
+"about" = "About";
+"version" = "Version";
+"build" = "Build";
+"privacy_policy" = "Privacy Policy";
+"terms_of_use" = "Terms of Use";
+"reset_settings" = "Reset All Settings";
+"reset_confirmation" = "Reset Confirmation";
+"reset_message" = "All settings will be reset to defaults. Client and case data will not be affected.";
+
+// MARK: - Subscription
+"subscription" = "Subscription";
+"pro_version" = "Pro Version";
+"full_access" = "Full access to all features";
+"trial_period" = "14 days free, then payment";
+"subscribe_now" = "Subscribe Now";
+"restore_purchases" = "Restore Purchases";
+"features" = "Features";
+"unlimited_documents" = "Unlimited document generation";
+"cloud_sync" = "Sync between devices";
+"reminders" = "Event reminders";
+"analytics" = "Advanced analytics";
+"password_protection" = "Password protection";
+
+// MARK: - Help
+"faq" = "FAQ";
+"getting_started" = "Getting Started";
+"documents_help" = "Documents";
+"events_help" = "Events";
+"payment_help" = "Payment";
+"subscription_help" = "Subscription";
+"export_help" = "Data Export";
+"support" = "Support";
+"contact_support" = "Contact Support";
+"telegram_support" = "Telegram Support";
+
+// MARK: - Errors
+"error" = "Error";
+"save_error" = "Failed to save";
+"delete_error" = "Failed to delete";
+"load_error" = "Failed to load";
+"invalid_email" = "Invalid email";
+"invalid_phone" = "Invalid phone";
+"required_field" = "Required field";
+
+// MARK: - Success
+"success" = "Success";
+"saved" = "Saved";
+"deleted" = "Deleted";
+"copied" = "Copied";
+
+// MARK: - Time
+"hours_short" = "h";
+"minutes_short" = "min";
+"currency_symbol" = "$";

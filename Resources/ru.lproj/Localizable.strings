@@ -1,0 +1,184 @@
+/* 
+  Localizable.strings
+  Advocate
+
+  Russian localization
+*/
+
+// MARK: - Navigation
+"clients" = "Клиенты";
+"cases" = "Дела";
+"documents" = "Документы";
+"time" = "Время";
+"settings" = "Настройки";
+"statistics" = "Статистика";
+"help" = "Помощь";
+
+// MARK: - Actions
+"add" = "Добавить";
+"edit" = "Изменить";
+"delete" = "Удалить";
+"save" = "Сохранить";
+"cancel" = "Отмена";
+"done" = "Готово";
+"search" = "Поиск";
+"close" = "Закрыть";
+"back" = "Назад";
+
+// MARK: - Client
+"client" = "Клиент";
+"clients" = "Клиенты";
+"new_client" = "Новый клиент";
+"edit_client" = "Изменить клиента";
+"full_name" = "ФИО";
+"last_name" = "Фамилия";
+"first_name" = "Имя";
+"middle_name" = "Отчество";
+"phone" = "Телефон";
+"email" = "Email";
+"notes" = "Заметки";
+"contacts" = "Контакты";
+
+// MARK: - Case
+"case" = "Дело";
+"cases" = "Дела";
+"new_case" = "Новое дело";
+"edit_case" = "Изменить дело";
+"case_number" = "Номер дела";
+"case_title" = "Название";
+"description" = "Описание";
+"status" = "Статус";
+"payment_method" = "Метод оплаты";
+"hourly_rate" = "Ставка за час";
+"monthly_amount" = "Сумма в месяц";
+"active" = "Активно";
+"archived" = "Архив";
+"closed" = "Закрыто";
+"hourly" = "Почасовая";
+"fixed" = "Фиксированная";
+"monthly" = "Ежемесячная";
+
+// MARK: - Event
+"event" = "Событие";
+"events" = "События";
+"new_event" = "Новое событие";
+"event_title" = "Название события";
+"event_type" = "Тип события";
+"date" = "Дата";
+"time" = "Время";
+"duration" = "Длительность (часов)";
+"meeting" = "Встреча";
+"court" = "Суд";
+"consultation" = "Консультация";
+"document_review" = "Работа с документами";
+"call" = "Звонок";
+"other" = "Другое";
+"upcoming_events" = "Ближайшие события";
+"no_upcoming_events" = "Нет предстоящих событий";
+
+// MARK: - Payment
+"payment" = "Платёж";
+"payments" = "Платежи";
+"new_payment" = "Новый платёж";
+"amount" = "Сумма";
+"payment_date" = "Дата платежа";
+"total_earnings" = "Всего заработано";
+
+// MARK: - Document
+"document" = "Документ";
+"documents" = "Документы";
+"new_document" = "Новый документ";
+"document_title" = "Название документа";
+"document_type" = "Тип документа";
+"contract" = "Договор";
+"court_order" = "Судебный документ";
+"statement" = "Заявление";
+"evidence" = "Доказательство";
+"correspondence" = "Переписка";
+"power_of_attorney" = "Доверенность";
+"scan_document" = "Сканировать документ";
+"import_photo" = "Импорт фото";
+"favorite" = "Избранное";
+
+// MARK: - Dashboard
+"dashboard" = "Главная";
+"active_cases" = "Активные дела";
+"earned" = "Заработано";
+"hours_this_month" = "Часов в этом месяце";
+"recent_cases" = "Последние дела";
+"all" = "Все";
+
+// MARK: - Calendar
+"calendar" = "Календарь";
+"select_date" = "Выберите дату";
+"no_events" = "Нет событий";
+"time_tracking" = "Учёт времени";
+"today" = "День";
+"week" = "Неделя";
+"month" = "Месяц";
+"year" = "Год";
+"entries" = "Записи";
+"no_entries" = "Нет записей за период";
+
+// MARK: - Settings
+"profile" = "Профиль";
+"appearance" = "Оформление";
+"dark_mode" = "Тёмная тема";
+"notifications" = "Уведомления";
+"enable_notifications" = "Включить уведомления";
+"notification_settings" = "Настройка уведомлений";
+"default_payment" = "Оплата по умолчанию";
+"about" = "О приложении";
+"version" = "Версия";
+"build" = "Сборка";
+"privacy_policy" = "Политика конфиденциальности";
+"terms_of_use" = "Условия использования";
+"reset_settings" = "Сбросить все настройки";
+"reset_confirmation" = "Сбросить настройки?";
+"reset_message" = "Все настройки будут сброшены к значениям по умолчанию. Данные клиентов и дел не затронуты.";
+
+// MARK: - Subscription
+"subscription" = "Подписка";
+"pro_version" = "PRO-версия";
+"full_access" = "Полный доступ ко всем функциям";
+"trial_period" = "14 дней бесплатно, затем оплата";
+"subscribe_now" = "Оформить подписку";
+"restore_purchases" = "Восстановить покупки";
+"features" = "Функции";
+"unlimited_documents" = "Неограниченная генерация документов";
+"cloud_sync" = "Синхронизация между устройствами";
+"reminders" = "Напоминания о событиях";
+"analytics" = "Расширенная аналитика";
+"password_protection" = "Защита паролем";
+
+// MARK: - Help
+"faq" = "Частые вопросы";
+"getting_started" = "Начало работы";
+"documents_help" = "Документы";
+"events_help" = "События";
+"payment_help" = "Оплата";
+"subscription_help" = "Подписка";
+"export_help" = "Экспорт данных";
+"support" = "Поддержка";
+"contact_support" = "Написать в поддержку";
+"telegram_support" = "Telegram поддержка";
+
+// MARK: - Errors
+"error" = "Ошибка";
+"save_error" = "Не удалось сохранить";
+"delete_error" = "Не удалось удалить";
+"load_error" = "Не удалось загрузить";
+"invalid_email" = "Некорректный email";
+"invalid_phone" = "Некорректный телефон";
+"required_field" = "Обязательное поле";
+
+// MARK: - Success
+"success" = "Успех";
+"saved" = "Сохранено";
+"deleted" = "Удалено";
+"copied" = "Скопировано";
+
+// MARK: - Time
+"hours_short" = "ч";
+"minutes_short" = "мин";
+"currency_symbol" = "₽";
